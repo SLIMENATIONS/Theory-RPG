@@ -15,4 +15,19 @@ Note: This Is Just A Simple Frameworks. We Will Learn In Much Depth For Attribut
 Str Is A Short Form For Strength.
 Str Can Be Deduce As 'Physical' Powers.
 Str Can Affect Attack's Base.
+Str Can Affect MaxHP.
+Str Can Reduce Armour Weight.
 ```
+You Can See That There Are Many Way Str Can Affect A User.
+
+#### Calculation Base Damage
+```
+Let Assume; The User Stats Is : LvL = 1, Str = 5;
+Base Dmg is Not The Final Output.
+Square Root = sqrt() || √.
+Base Dmg = sqrt(LvL) + ((Log(Str)+LvL)*2)
+So The Output Is: 3.397940008672037609572522210551
+```
+So Why My Output Is Low?
+
+That Because This Is Still Not The Last Damage Yet.
