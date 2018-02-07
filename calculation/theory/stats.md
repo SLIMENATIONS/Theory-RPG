@@ -20,8 +20,14 @@ Str Can Reduce Armour Weight.
 ```
 You Can See That There Are Many Way Str Can Affect A User.
 
+#### Dex
+```
+
+```
+
 #### Calculation Base Damage
 ```
+This Is My Own Calculation Theory.
 Let Assume; The User Stats Is : LvL = 1, Str = 5;
 Base Dmg is Not The Final Output.
 Square Root = sqrt() || √.
