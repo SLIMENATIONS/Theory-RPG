@@ -33,6 +33,11 @@ Base Dmg is Not The Final Output.
 Square Root = sqrt() || √.
 Base Dmg = sqrt(LvL) + ((Log(Str)+LvL)*2)
 So The Output Is: 3.397940008672037609572522210551
+
+More Than That;
+let WA = Weapon Attack // this will be learn in next session
+New Dmg = (Base Dmg + (sqrt(WA))/2) * (sqrt(LvL)/2)
+So The New Output Is: 
 ```
 So Why My Output Is Low?
 
