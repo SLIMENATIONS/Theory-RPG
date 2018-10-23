@@ -22,7 +22,11 @@ You Can See That There Are Many Way Str Can Affect A User.
 
 #### Dex
 ```
-
+Dex is a short form for dextery.
+dex can be use to increase the speed.
+dex can effect how much damage per second u can made.
+dex can increase the probabilty of how u can dodge attacks.
+dex can increase craftmens productivity.
 ```
 
 #### Calculation Base Damage
